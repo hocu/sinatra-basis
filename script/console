@@ -1,0 +1,10 @@
+#! /usr/bin/env ruby
+
+command_line = []
+command_line << "tux"
+
+command = command_line.join(" ")
+
+puts "Running tux now, welcome to your Sinatra console\n"
+puts "press CTRL+D to exit"
+exec command
