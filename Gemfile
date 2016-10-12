@@ -20,6 +20,8 @@ gem 'coffee-script'
 gem 'execjs'
 gem 'sinatra-asset-pipeline', '~> 1.0'
 
+gem 'i18n'
+
 group :development do
   gem 'pry'
   gem 'better_errors'

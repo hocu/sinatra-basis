@@ -1,0 +1,4 @@
+tr:
+  welcome: "Sinatra Basis uygulamasına hoşgeldiniz."
+  application:
+    name: "Şeffaf Sözcükler"
