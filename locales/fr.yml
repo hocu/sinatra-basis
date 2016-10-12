@@ -1,4 +1,4 @@
 fr:
   welcome: "Bienvenue à Sinatra Basis"
   application:
-    name: "Mots Transparents"
+    name: "Nom d'application"
